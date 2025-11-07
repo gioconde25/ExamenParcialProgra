@@ -1,2 +1,0 @@
-# ExamenParcialProgra
-Juego Chido
